@@ -1,0 +1,5 @@
+.vscode
+raspberrypi/venv
+raspberrypi/secrets.json
+dapp/node_modules
+utils/node_modules
